@@ -1,4 +1,5 @@
 # weather-app-vue
+# Followed tutorial by Tyler Potts 
 
 ## Project setup
 ```
